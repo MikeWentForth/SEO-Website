@@ -11,5 +11,5 @@ HTML, CSS
 ### Contact information ###
 
 For more information about the services I offer for your website needs, please contact me at themikewallace@gmail.com
-<img width="1470" alt="Screenshot 2023-06-15 at 10 38 49 AM" src="https://github.com/MikeWentForth/SEO-Website/assets/132107748/847e72ec-f98e-478d-bd47-1cedc1116922">
+<img width="1070" alt="Screenshot 2023-06-15 at 10 38 49 AM" src="https://github.com/MikeWentForth/SEO-Website/assets/132107748/847e72ec-f98e-478d-bd47-1cedc1116922">
 
