@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* this is the top blue header line */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,14 +17,23 @@ body {
     color: #ffffff;
 }
 
+/* this is the "Horieson" heading & part of the header element */
+
+
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* this is part of the header element */
+
+
 .header h1 .seo {
     color: #d9dcd6;
 }
+
+/* not able to get a response from this section */
 
 .header section {
     padding-top: 15px;
@@ -52,6 +63,8 @@ p {
     font-size: 16px;
 }
 
+/* this is the sites main photo */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -71,11 +84,15 @@ p {
     margin-left: 25px;
 }
 
+/* these are the 3 horizontal blue boxes */
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* this is the blue vertical box on the right */
 
 .benefits {
     margin-right: 20px;
@@ -98,8 +115,10 @@ p {
     color: #ffffff;
 }
 
+/* I sized the benefit-cost up 10px to make the box flushed with the one beside it */
+
 .benefit-cost {
-    margin-bottom: 32px;
+    margin-bottom: 42px;
     color: #ffffff;
 }
 
@@ -118,6 +137,8 @@ p {
     text-align: center;
 }
 
+/* these are the black & white images on the vertical right column */
+
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -135,6 +156,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* these are properties of the main 3 boxes stacked */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -163,17 +186,25 @@ p {
     color: #ffffff;
 }
 
+/* image in top blue box */
+
 .search-engine-optimization img {
     max-height: 200px;
 }
+
+/* image in middle blue box */
 
 .online-reputation-management img {
     max-height: 200px;
 }
 
+/* image in bottom blue box */
+
 .social-media-marketing img {
     max-height: 200px;
 }
+
+/* this is the bottom margin of the text inside of the blue boxes */
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
@@ -189,6 +220,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* this is the bottom gray footer with "made with love by horiseon" text */
 
 .footer {
     padding: 30px;
